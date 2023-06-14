@@ -24,7 +24,7 @@ country_event = {
 		name = news_chinaA.2
 		add_ideas = CHI_ideas
                                 kill_country_leader = yes
-                                kill_ideology_leader = despotism  #despotism 中立 /fascism_ideology 民族 /marxism 共产 / liberalism 民主
+                                kill_ideology_leader = fascism_ideology   #despotism 中立 /fascism_ideology 民族 /marxism 共产 / liberalism 民主
 		create_country_leader = {
 
 			name = Archetype #领导人名字
@@ -35,8 +35,8 @@ country_event = {
 
 			expire = "1965.1.1.1" #什么时候死
 
-			ideology = despotism   #despotism 中立 /fascism_ideology 民族 /marxism 共产 / liberalism 民主
-			traits={princess mywife koxiang baiji}
+			ideology = fascism_ideology    #despotism 中立 /fascism_ideology 民族 /marxism 共产 / liberalism 民主
+			traits={princess mywife koxiang baiji idlu}
 			id=-1
 
 		}
