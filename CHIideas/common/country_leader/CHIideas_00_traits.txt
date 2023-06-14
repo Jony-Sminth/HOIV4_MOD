@@ -14,19 +14,35 @@
 
 leader_traits = {
 	princess = {
-		consumer_goods_factor = 0.25
+		consumer_goods_factor = 0.65
 		industrial_capacity_factory = 0.75
 		stability_factor = 0.15
-		war_support_factor = 0.15
 		ai_will_do = {
 			factor = 1
 		}
 	}
 	mywife = {
 		consumer_goods_factor = -0.05
+		industrial_capacity_factory = 0.15
 		ai_will_do = {
 			factor = 1
 		}
 	}
-
+	koxiang = {
+		consumer_goods_factor = -0.25
+		industrial_capacity_factory = 0.25
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	baiji = {
+		ai_focus_aggressive_factor = 0.5
+		political_power_factor = -0.25
+		consumer_goods_factor = -0.05
+		justify_war_goal_time = -0.50
+		war_support_factor = 0.15
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

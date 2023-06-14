@@ -36,7 +36,7 @@ country_event = {
 			expire = "1965.1.1.1" #什么时候死
 
 			ideology = despotism   #despotism 中立 /fascism_ideology 民族 /marxism 共产 / liberalism 民主
-			traits={princess mywife adventurous_daredevil}
+			traits={princess mywife koxiang baiji}
 			id=-1
 
 		}
