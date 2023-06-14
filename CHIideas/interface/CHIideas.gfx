@@ -1,0 +1,10 @@
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_idea_CHI_ideas"
+		texturefile = "gfx/interface/ideas/Archetype_Earth.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_CHI_ideas2"
+		texturefile = "gfx/interface/ideas/shiro.dds"
+	}
+}

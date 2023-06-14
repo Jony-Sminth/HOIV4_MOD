@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_portrait_CHI_Archetype"
+		texturefile = "gfx/leaders/portrait_CHI_Archetype.png"
+	}
+}

@@ -1,0 +1,48 @@
+ideas = {
+	country = {
+		CHI_ideas = {
+			allowed = {} 
+			available={}
+			cancel = {}
+			name = CHI_ideas
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.25
+				industrial_capacity_factory = 0.5
+				production_factory_efficiency_gain_factor = 0.5
+				production_factory_max_efficiency_factor = 0.5
+				can_create_factions = yes
+				local_resources_factor = 1
+			}
+		}
+		CHI_ideas2 = {
+			allowed = {} 
+			available={}
+			cancel = {}
+			name = CHI_ideas_two
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    	consumer_goods_factor = -0.35
+				army_core_attack_factor = 0.15
+				army_core_defence_factor = 0.15
+				combat_width_factor = -0.50
+				army_org_factor = 1.00
+				land_reinforce_rate = 0.1 
+				supply_consumption_factor = -0.20
+				conscription_factor = 0.05
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,25 @@
+version="1.0"
+tags={
+	"Military"
+	"Gameplay"
+}
+dependencies={
+	"Kaiserreich"
+	"Kaiserreich(CN.Ver)"
+	"Endsieg: Ultimate Victory"
+	"Endsieg: Ultimate Victory CN"
+	"TheNewOrder-OldWorldBlues"
+	"The New Order - Old World Blues"
+	"Cold War Iron Curtain-Chinese Version"
+	"Cold War Iron Curtain: A World Divided"
+	"Millennium Dawn:Communsim CN"
+	"Millennium Dawn CN 千禧黎明中文版"
+	"The Road to 56"
+	"Red Flood CN"
+	"Kaiserredux汉化"
+	"Kaiserredux"
+	"ONE YEAR WAR"
+}
+name="党国国家精神"
+supported_version="1.12.*"
+path="E:/MOD/CHIideas"

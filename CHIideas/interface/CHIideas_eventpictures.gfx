@@ -1,0 +1,11 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_report_event_Archetype"
+		texturefile = "gfx/event_pictures/report_event_Archetype.dds"
+	
+	spriteType = {
+		name = "GFX_news_maid_marry_1"
+		texturefile = "gfx/event_pictures/news_maid_marry_1"
+	}
+}
