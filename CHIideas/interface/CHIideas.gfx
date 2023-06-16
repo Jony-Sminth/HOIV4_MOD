@@ -7,4 +7,9 @@ spriteTypes = {
 		name = "GFX_idea_CHI_ideas2"
 		texturefile = "gfx/interface/ideas/shiro.dds"
 	}
+
+	SpriteType = {
+		name = "GFX_idea_CHI_ideas3"
+		texturefile = "gfx/interface/ideas/Archetype2.dds"
+	}
 }
