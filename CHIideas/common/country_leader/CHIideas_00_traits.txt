@@ -14,7 +14,7 @@
 
 leader_traits = {
 	princess = {
-		consumer_goods_factor = 0.70
+		consumer_goods_factor = 0.65
 		industrial_capacity_factory = 0.75
 		stability_factor = 0.15
 		ai_will_do = {
@@ -46,7 +46,7 @@ leader_traits = {
 		}
 	}
 	idlu = {
-		conscription_factor = 0.15	
+		conscription_factor   = 0.15	
 		consumer_goods_factor = -0.05
 		ai_will_do = {
 			factor = 1
